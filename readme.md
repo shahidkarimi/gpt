@@ -7,7 +7,7 @@ Start with the basics of NLP, which includes tokenization, stemming, lemmatizati
 GPT is based on deep learning, so you need to have a good understanding of deep learning concepts. You can start with the basics of neural networks, backpropagation, convolutional neural networks, and recurrent neural networks. There are many online courses available to learn these concepts. A good starting point is the Deep Learning Specialization on Coursera.
 
 ## Learn about GPT: 
-After understanding the basics of NLP and deep learning, you can start learning about GPT. GPT stands for "Generative Pre-trained Transformer". You can start with the paper "Attention Is All You Need", which introduced the transformer architecture. Then move on to the original GPT paper "Improving Language Understanding by Generative Pre-Training" and "GPT-2: Language Models are Unsupervised Multitask Learners".
+After understanding the basics of NLP and deep learning, you can start learning about GPT. GPT stands for "Generative Pre-trained Transformer". You can start with the paper "Attention Is All You Need" [PDF](https://arxiv.org/pdf/1706.03762.pdf), which introduced the transformer architecture. Then move on to the original GPT paper "Improving Language Understanding by Generative Pre-Training" and "GPT-2: Language Models are Unsupervised Multitask Learners".
 
 ## Implement GPT: 
 After you have learned about GPT, you can start implementing it. You can use existing pre-trained models like GPT-2 or GPT-3 or train your own model. The Hugging Face library is a great resource to get started. It has pre-trained models and a Python API to fine-tune the models.
