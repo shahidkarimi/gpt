@@ -15,5 +15,9 @@ After you have learned about GPT, you can start implementing it. You can use exi
 ## Practice with NLP projects: 
 Start working on NLP projects to practice what you have learned. There are many NLP projects available online, such as sentiment analysis, language translation, and chatbots. You can also contribute to open source NLP projects.
 
+
 ## Keep up-to-date with the latest research:
 NLP and GPT are evolving fields, so it's essential to stay up-to-date with the latest research and techniques. You can read research papers, attend conferences, and follow researchers on social media to keep up-to-date.
+
+# Prepare ETL for to train your models
+Use apache Workflow inorder to automate workflow. This will include extracting data, cleaning, training the model and then deploying.
